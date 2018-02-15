@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Course 2 - Week 3</string>
+    <string name="fondo_descr">Background image</string>
+    <string name="msj_bienvenida">Welcome</string>
+    <string name="btn_entrar">Enter</string>
+</resources>
